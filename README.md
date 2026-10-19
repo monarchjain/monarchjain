@@ -6,7 +6,7 @@
 
 Building practical software solutions with **Python, Java, Flutter, backend APIs, and AI/ML**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://monarchjain.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://monarchjainweb.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monarchjain/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monarch123jain@gmail.com)
 
@@ -171,7 +171,7 @@ A personal portfolio showcasing my background, projects, and development experie
 
 I'm interested in opportunities where I can contribute to software development, backend engineering, mobile applications, and AI-powered products.
 
-- 🌐 **Portfolio:** [monarchjain.netlify.app](https://monarchjain.netlify.app/)
+- 🌐 **Portfolio:** [monarchjain.netlify.app](https://monarchjainweb.netlify.app/)
 - 💼 **LinkedIn:** [linkedin.com/in/monarchjain](https://www.linkedin.com/in/monarchjain/)
 - 📧 **Email:** [monarch123jain@gmail.com](mailto:monarch123jain@gmail.com)
 - 🧑‍💻 **GitHub:** [github.com/monarchjain](https://github.com/monarchjain)
