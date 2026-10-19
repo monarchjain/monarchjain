@@ -1,4 +1,4 @@
-::: {align="center"}
+{align="center"}
 # 👋 Hey, I'm Monarch Jain
 
 ### Software Developer \| AI/ML Enthusiast \| Full-Stack & Mobile App Developer
@@ -222,4 +222,3 @@ products.
 
 ::: {align="center"}
 ### *Building, learning, and improving --- one project at a time.* 🚀
-:::
