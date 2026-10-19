@@ -220,5 +220,5 @@ products.
 -   🧑‍💻 **GitHub:**
     [github.com/monarchjain](https://github.com/monarchjain)
 
-::: {align="center"}
+{align="center"}
 ### *Building, learning, and improving --- one project at a time.* 🚀
